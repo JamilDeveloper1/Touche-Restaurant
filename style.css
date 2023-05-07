@@ -2335,3 +2335,22 @@ body{
     
 }
 
+
+
+
+
+
+
+
+
+@media(max-width:360px){
+    .sideBar{
+        height: 30%;
+    }
+}
+
+
+
+
+
+
